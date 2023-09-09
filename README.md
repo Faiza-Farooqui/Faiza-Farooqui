@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Faiza-Farooqui/Faiza-Farooqui/assets/36657067/258aee2a-6e5e-42e2-b066-efb874fa1c5d)]
 <h1 align="center">Hi 👋, I'm Faiza Farooqui</h1>
-<h3 align="center">I will build Mobile Apps (Android, Flutter-App, Web) for your business..</h3>
+<h3 align="center">I build Mobile Apps (Android, Flutter-App, Web) for your business..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiza-farooqui&label=Profile%20views&color=0e75b6&style=flat" alt="faiza-farooqui" /> </p>
 
